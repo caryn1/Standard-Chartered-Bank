@@ -2,5 +2,5 @@ Code 1
 code 2
 code 3
 SCB-6 error fixed
-
+code 7
 print (done)
