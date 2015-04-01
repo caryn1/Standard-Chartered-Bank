@@ -2,5 +2,9 @@ Code 1
 code 2
 code 3
 SCB-6 error fixed
+<<<<<<< HEAD
 code 7
+=======
+code 4
+>>>>>>> 04fd7040128bf3dfcb065c8d3b1f3690ba640461
 print (done)
